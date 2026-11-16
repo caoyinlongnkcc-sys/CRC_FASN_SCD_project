@@ -1,6 +1,6 @@
 # CRC FASN/SCD lipid-dependency project
 
-This directory is a publication-oriented copy of the reproducibility files for the colorectal-cancer lipid-dependency analysis. It contains scripts, frozen gene-set files, result tables, figures, data manifests, and R session-information files. Original raw data remain in the parent project and are not duplicated here.
+This directory is a publication-oriented copy of the reproducibility materials for the colorectal-cancer lipid-dependency analysis. It contains frozen gene-set files, result tables, figures, data manifests, checksums, and R session-information files. The analysis scripts are not included in this public release. Original raw data remain in the parent project and are not duplicated here.
 
 ## Study resources
 
@@ -14,8 +14,7 @@ Exact file paths, versions, retrieval dates, download URLs, and recorded SHA256 
 
 ## Directory structure
 
-- `scripts/`: numbered R analysis and audit scripts.
-- `data_manifest/`: source manifests, URLs, configuration, and the stage 0–1 analysis plan.
+- `data_manifest/`: source manifests, URLs, and the stage 0–1 analysis plan.
 - `gene_set_manifest/`: frozen lipid-metabolism gene-set files.
 - `results_tables/`: intermediate and final result tables used for reporting.
 - `figures/`: manuscript figure PNG files.
@@ -24,7 +23,7 @@ Exact file paths, versions, retrieval dates, download URLs, and recorded SHA256 
 
 ## Reproducibility notes
 
-Run scripts in numerical order after reviewing the data manifests and analysis plan in `data_manifest/`. The scripts were developed within the parent project layout, so local input paths should be configured before execution. No result values were entered manually into the manuscript. Re-run outputs should be compared with the retained result tables before changing any reported value.
+The public release provides the retained manifests, result tables, figures, checksums, and session information. The analysis scripts are not publicly released. No result values were entered manually into the manuscript. Any re-analysis should be compared with the retained result tables before changing a reported value.
 
 ## Software
 
