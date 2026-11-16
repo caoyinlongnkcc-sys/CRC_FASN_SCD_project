@@ -1,0 +1,7 @@
+source	source_id	candidate	reason
+Reactome	R-HSA-8978868	ACOT7L	not_HGNC_approved
+Reactome	R-HSA-77289	ACOT7L	not_HGNC_approved
+Reactome	R-HSA-1483257	TNFAIP8L1	not_HGNC_approved
+Reactome	R-HSA-1483257	TNFAIP8L2	not_HGNC_approved
+Reactome	R-HSA-1483257	TNFAIP8L3	not_HGNC_approved
+Reactome	R-HSA-2029485	IGLV	not_HGNC_approved

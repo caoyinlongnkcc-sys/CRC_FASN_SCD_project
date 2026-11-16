@@ -1,0 +1,2 @@
+dataset	feature	tau_months	cutpoint	low_n	high_n	low_events	high_events	rmst_low	rmst_high	rmst_difference_high_minus_low	bootstrap_lower95	bootstrap_upper95	bootstrap_reps
+"TCGA_COAD"	"SCD"	60	8.16710939998525	221	221	50	46	46.4073775912914	48.8357468743357	2.42836928304432	-2.46937557039778	6.95566558453727	500

@@ -1,0 +1,2 @@
+accession	matrix_samples	matrix_probes	cancer_lcm_samples	FASN_detected	SCD_detected	stage_available	OS_available	note
+"GSE18105"	111	54675	77	77	77	FALSE	FALSE	"Official sample characteristics provide metastasis status and tissue type; no sample-level stage/OS fields"

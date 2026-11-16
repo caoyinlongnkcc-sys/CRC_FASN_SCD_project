@@ -1,0 +1,6 @@
+resource	available	matched_crc_models	note
+"DepMap_CRISPR_dependency"	TRUE	58	"official 24Q2 CRISPRGeneEffect; exact CRC"
+"DepMap_RNA_expression"	TRUE	58	"official TPMLogp1; matched by ModelID"
+"DepMap_model_metadata"	TRUE	61	"official model metadata"
+"DepMap_mutation_table"	FALSE	NA	"not present in audited local directory; mutation analysis not run"
+"Reactome_GMT"	TRUE	NA	"official downloaded Reactome GMT"

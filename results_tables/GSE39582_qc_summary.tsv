@@ -1,0 +1,2 @@
+accession	file_sha256	n_probes	n_samples	n_sample_ids	duplicate_sample_ids	FASN_probes	SCD_probes	note
+"GSE39582"	"5B88FA71C5268FA1A6AC52B062EE6E676DEF6C997AB4A09C36EA7ACD90EF3968"	54675	585	585	0	2	4	"Series Matrix and GPL570 Bioconductor annotation; clinical fields require manual parsing"

@@ -1,0 +1,351 @@
+fitness_model_id	model_list_match	cancer_type	cancer_type_detail	tissue	depmap_crc_overlap
+SIDM00499	TRUE	Prostate Carcinoma	Prostate Carcinoma	Prostate	FALSE
+SIDM00980	TRUE	Gastric Carcinoma	Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00982	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00803	TRUE	Kidney Carcinoma	Clear Cell Renal Cell Carcinoma	Kidney	FALSE
+SIDM00998	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00799	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00797	TRUE	Melanoma	Amelanotic Melanoma	Skin	FALSE
+SIDM00796	TRUE	Head and Neck Carcinoma	Salivary Gland Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00210	TRUE	Ovarian Carcinoma	Ovarian Endometrioid Adenocarcinoma	Ovary	FALSE
+SIDM01211	TRUE	Ovarian Carcinoma	Ovarian Endometrioid Adenocarcinoma	Ovary	FALSE
+SIDM01212	TRUE	Ovarian Carcinoma	Ovarian Endometrioid Adenocarcinoma	Ovary	FALSE
+SIDM00795	TRUE	Melanoma	Amelanotic Melanoma	Skin	FALSE
+SIDM00903	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00850	TRUE	Gastric Carcinoma	Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00492	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00900	TRUE	Non-Cancerous	Non-Cancerous	Haematopoietic and Lymphoid	FALSE
+SIDM00898	TRUE	Breast Carcinoma	Breast Adenocarcinoma	Breast	FALSE
+SIDM00899	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM00172	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01229	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00986	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00077	TRUE	Oral Cavity Carcinoma	Oral Cavity Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00485	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00501	TRUE	Oral Cavity Carcinoma	Oral Cavity Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00490	TRUE	Glioma	Astrocytoma	Central Nervous System	FALSE
+SIDM00132	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM01233	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM01988	TRUE	Head and Neck Carcinoma	Nasopharyngeal Undifferentiated Carcinoma	Head and Neck	FALSE
+SIDM00937	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00942	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00933	TRUE	Breast Carcinoma	Breast Carcinoma	Breast	FALSE
+SIDM00930	TRUE	Osteosarcoma	Osteosarcoma	Bone	FALSE
+SIDM00934	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM00212	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00910	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00944	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00826	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00842	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	FALSE
+SIDM00956	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00142	TRUE	Endometrial Carcinoma	Endometrial Adenocarcinoma	Endometrium	FALSE
+SIDM00954	TRUE	Breast Carcinoma	Breast Carcinoma	Breast	FALSE
+SIDM00512	TRUE	Non-Small Cell Lung Carcinoma	Large Cell Lung Carcinoma	Lung	FALSE
+SIDM00489	TRUE	Oral Cavity Carcinoma	Gingival Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00918	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00209	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00208	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00207	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00950	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM00867	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00947	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00540	TRUE	Oral Cavity Carcinoma	Oral Dysplasia	Head and Neck	FALSE
+SIDM00969	TRUE	Ovarian Carcinoma	Ovarian Adenocarcinoma	Ovary	FALSE
+SIDM00120	TRUE	Prostate Carcinoma	Prostate Carcinoma	Prostate	FALSE
+SIDM00831	TRUE	Head and Neck Carcinoma	Pharyngeal Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00049	TRUE	Colorectal Carcinoma	Colorectal Carcinoma	Large Intestine	TRUE
+SIDM00486	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00278	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01052	TRUE	Ovarian Carcinoma	Ovarian Serous Cystadenocarcinoma	Ovary	FALSE
+SIDM01051	TRUE	Ovarian Carcinoma	Ovarian Mucinous Adenocarcinoma	Ovary	FALSE
+SIDM01050	TRUE	Biliary Tract Carcinoma	Cholangiocarcinoma	Biliary Tract	FALSE
+SIDM01044	TRUE	Other Solid Cancers	Lung Mucoepidermoid Carcinoma	Lung	FALSE
+SIDM00861	TRUE	Ovarian Carcinoma	Ovarian Clear Cell Adenocarcinoma	Ovary	FALSE
+SIDM00264	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00263	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00261	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00539	TRUE	Esophageal Carcinoma	Esophageal Adenocarcinoma	Esophagus	FALSE
+SIDM00538	TRUE	Esophageal Carcinoma	Esophageal Adenocarcinoma	Esophagus	FALSE
+SIDM01043	TRUE	Other Sarcomas	Endometrial Stromal Sarcoma	Endometrium	FALSE
+SIDM01042	TRUE	Breast Carcinoma	Breast Carcinoma	Breast	FALSE
+SIDM00205	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00198	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00196	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00201	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00860	TRUE	Head and Neck Carcinoma	Hypopharyngeal Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01041	TRUE	Esophageal Carcinoma	Esophageal Adenocarcinoma	Esophagus	FALSE
+SIDM01055	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00581	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00273	TRUE	Glioblastoma	Gliosarcoma	Central Nervous System	FALSE
+SIDM00537	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00598	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM01068	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00866	TRUE	Breast Carcinoma	Ductal Breast Carcinoma	Breast	FALSE
+SIDM00885	TRUE	Breast Carcinoma	Ductal Breast Carcinoma	Breast	FALSE
+SIDM00884	TRUE	Breast Carcinoma	Ductal Breast Carcinoma	Breast	FALSE
+SIDM00875	TRUE	Breast Carcinoma	Squamous Cell Breast Carcinoma Acantholytic Variant	Breast	FALSE
+SIDM00874	TRUE	Breast Carcinoma	Ductal Breast Carcinoma	Breast	FALSE
+SIDM00872	TRUE	Breast Carcinoma	Ductal Breast Carcinoma	Breast	FALSE
+SIDM00118	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00675	TRUE	Breast Carcinoma	Ductal Breast Carcinoma	Breast	FALSE
+SIDM00673	TRUE	Breast Carcinoma	Ductal Breast Carcinoma	Breast	FALSE
+SIDM00052	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00783	TRUE	Colorectal Carcinoma	Colon Carcinoma	Large Intestine	TRUE
+SIDM00789	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00596	TRUE	Endometrial Carcinoma	Endometrial Adenocarcinoma	Endometrium	FALSE
+SIDM00290	TRUE	Gastric Carcinoma	Gastric Carcinoma	Stomach	FALSE
+SIDM01997	TRUE	Head and Neck Carcinoma	Nasopharyngeal Differentiated Carcinoma	Head and Neck	FALSE
+SIDM00591	TRUE	Oral Cavity Carcinoma	Oral Cavity Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00133	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00669	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM00590	TRUE	Oral Cavity Carcinoma	Oral Cavity Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00589	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00045	TRUE	Gastric Carcinoma	Signet Ring Cell Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00588	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00136	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00541	TRUE	Colorectal Carcinoma	Colon Carcinoma	Large Intestine	TRUE
+SIDM00968	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00135	TRUE	Breast Carcinoma	Invasive Ductal Carcinoma Not Otherwise Specified	Breast	FALSE
+SIDM00666	TRUE	Glioma	Oligodendroglioma	Central Nervous System	FALSE
+SIDM00533	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM00531	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM00151	TRUE	Ovarian Carcinoma	Ovarian Endometrioid Adenocarcinoma	Ovary	FALSE
+SIDM00632	TRUE	Non-Cancerous	Non-Cancerous	Haematopoietic and Lymphoid	FALSE
+SIDM00602	TRUE	Gastric Carcinoma	Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00225	TRUE	Melanoma	Melanoma	Skin	FALSE
+SIDM00305	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00303	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00128	TRUE	Head and Neck Carcinoma	Laryngeal Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00127	TRUE	Oral Cavity Carcinoma	Oral Cavity Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00690	TRUE	Head and Neck Carcinoma	Laryngeal Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01037	TRUE	Breast Carcinoma	Breast Carcinoma	Breast	FALSE
+SIDM00687	TRUE	Gastric Carcinoma	Signet Ring Cell Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00612	TRUE	Glioma	Anaplastic Astrocytoma	Central Nervous System	FALSE
+SIDM00686	TRUE	Endometrial Carcinoma	Endometrial Adenocarcinoma	Endometrium	FALSE
+SIDM00150	TRUE	Colorectal Carcinoma	Colon Carcinoma	Large Intestine	TRUE
+SIDM00608	TRUE	Plasma Cell Myeloma	Plasma Cell Myeloma	Haematopoietic and Lymphoid	FALSE
+SIDM00607	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00606	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00604	TRUE	Oral Cavity Carcinoma	Oral Cavity Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00583	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM00571	TRUE	Pancreatic Carcinoma	Pancreatic Adenosquamous Carcinoma	Pancreas	FALSE
+SIDM00301	TRUE	Pancreatic Carcinoma	Pancreatic Carcinoma	Pancreas	FALSE
+SIDM00556	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00157	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00554	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00530	TRUE	Esophageal Carcinoma	Esophageal Adenocarcinoma	Esophagus	FALSE
+SIDM01032	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01031	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00551	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01029	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01028	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01027	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01026	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01025	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM01024	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00312	TRUE	Plasma Cell Myeloma	Plasma Cell Myeloma	Haematopoietic and Lymphoid	FALSE
+SIDM00187	TRUE	Kidney Carcinoma	Renal Cell Carcinoma	Kidney	FALSE
+SIDM00182	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00300	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00344	TRUE	Non-Small Cell Lung Carcinoma	Large Cell Lung Carcinoma	Lung	FALSE
+SIDM00548	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00684	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00683	TRUE	Prostate Carcinoma	Prostate Carcinoma	Prostate	FALSE
+SIDM01220	TRUE	Glioma	Astrocytoma	Central Nervous System	FALSE
+SIDM00341	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00340	TRUE	Plasma Cell Myeloma	Plasma Cell Myeloma	Haematopoietic and Lymphoid	FALSE
+SIDM00680	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00660	TRUE	Colorectal Carcinoma	Cecum Adenocarcinoma	Large Intestine	TRUE
+SIDM00677	TRUE	Colorectal Carcinoma	Cecum Adenocarcinoma	Large Intestine	TRUE
+SIDM00681	TRUE	Colorectal Carcinoma	Cecum Adenocarcinoma	Large Intestine	TRUE
+SIDM00547	TRUE	Non-Small Cell Lung Carcinoma	Giant Cell Lung Carcinoma	Lung	FALSE
+SIDM01219	TRUE	Non-Small Cell Lung Carcinoma	Giant Cell Lung Carcinoma	Lung	FALSE
+SIDM00339	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00839	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00003	TRUE	Melanoma	Amelanotic Melanoma	Skin	FALSE
+SIDM01246	TRUE	Ewing's Sarcoma	Askin's Tumor	Bone	FALSE
+SIDM00148	TRUE	Breast Carcinoma	Invasive Ductal Carcinoma Not Otherwise Specified	Breast	FALSE
+SIDM00146	TRUE	Breast Carcinoma	Breast Adenocarcinoma	Breast	FALSE
+SIDM00528	TRUE	Breast Carcinoma	Breast Adenocarcinoma	Breast	FALSE
+SIDM00630	TRUE	Breast Carcinoma	Breast Adenocarcinoma	Breast	FALSE
+SIDM00629	TRUE	Breast Carcinoma	Invasive Ductal Carcinoma Not Otherwise Specified	Breast	FALSE
+SIDM00272	TRUE	Breast Carcinoma	Breast Adenocarcinoma	Breast	FALSE
+SIDM00628	TRUE	Breast Carcinoma	Breast Adenocarcinoma	Breast	FALSE
+SIDM00527	TRUE	Colorectal Carcinoma	Colon Carcinoma	Large Intestine	TRUE
+SIDM00335	TRUE	Endometrial Carcinoma	Endometrial Adenocarcinoma	Endometrium	FALSE
+SIDM00334	TRUE	Endometrial Carcinoma	Endometrial Adenocarcinoma	Endometrium	FALSE
+SIDM00332	TRUE	Breast Carcinoma	Breast Carcinoma	Breast	FALSE
+SIDM00386	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00505	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM00260	TRUE	Gastric Carcinoma	Gastric Tubular Adenocarcinoma	Stomach	FALSE
+SIDM00247	TRUE	Gastric Carcinoma	Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00504	TRUE	Glioma	Anaplastic Astrocytoma	Central Nervous System	FALSE
+SIDM00259	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00257	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00255	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00254	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00253	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00244	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00156	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00651	TRUE	Non-Small Cell Lung Carcinoma	Large Cell Lung Carcinoma	Lung	FALSE
+SIDM00649	TRUE	Non-Small Cell Lung Carcinoma	Large Cell Lung Carcinoma	Lung	FALSE
+SIDM00645	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00750	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00745	TRUE	Non-Small Cell Lung Carcinoma	Bronchiolo-Alveolar Lung Carcinoma	Lung	FALSE
+SIDM00738	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00768	TRUE	Non-Small Cell Lung Carcinoma	Non-Small Cell Lung Carcinoma	Lung	FALSE
+SIDM00763	TRUE	Non-Small Cell Lung Carcinoma	Non-Small Cell Lung Carcinoma	Lung	FALSE
+SIDM00762	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00759	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00758	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00753	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00713	TRUE	Mesothelioma	Pleural Sarcomatoid Mesothelioma	Lung	FALSE
+SIDM00708	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00716	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00139	TRUE	Mesothelioma	Pleural Epithelioid Mesothelioma	Lung	FALSE
+SIDM00138	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00724	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00098	TRUE	Mesothelioma	Pleural Sarcomatoid Mesothelioma	Lung	FALSE
+SIDM00309	TRUE	Mesothelioma	Malignant Pleural Mesothelioma	Lung	FALSE
+SIDM00519	TRUE	Mesothelioma	Pleural Biphasic Mesothelioma	Lung	FALSE
+SIDM00518	TRUE	Mesothelioma	Malignant Pleural Mesothelioma	Lung	FALSE
+SIDM00517	TRUE	Head and Neck Carcinoma	Parotid Gland Mucoepidermoid Carcinoma	Head and Neck	FALSE
+SIDM00137	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00117	TRUE	Non-Small Cell Lung Carcinoma	Bronchiolo-Alveolar Lung Carcinoma	Lung	FALSE
+SIDM00718	TRUE	Non-Small Cell Lung Carcinoma	Bronchiolo-Alveolar Lung Carcinoma	Lung	FALSE
+SIDM00114	TRUE	Non-Small Cell Lung Carcinoma	Adenosquamous Lung Carcinoma	Lung	FALSE
+SIDM01130	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM01124	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM01147	TRUE	Gastric Carcinoma	Gastric Tubular Adenocarcinoma	Stomach	FALSE
+SIDM00577	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00575	TRUE	Glioma	Astrocytoma	Central Nervous System	FALSE
+SIDM02009	TRUE	Non-Cancerous		Head and Neck	FALSE
+SIDM00572	TRUE	Gastric Carcinoma	Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00444	TRUE	Esophageal Carcinoma	Esophageal Adenocarcinoma	Esophagus	FALSE
+SIDM00480	TRUE	Ovarian Carcinoma	Ovarian Serous Cystadenocarcinoma	Ovary	FALSE
+SIDM00220	TRUE	Ovarian Carcinoma	Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00446	TRUE	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia	Haematopoietic and Lymphoid	FALSE
+SIDM00462	TRUE	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia	Haematopoietic and Lymphoid	FALSE
+SIDM00460	TRUE	B-Cell Non-Hodgkin's Lymphoma	Diffuse Large B-Cell Lymphoma	Haematopoietic and Lymphoid	FALSE
+SIDM00241	TRUE	Breast Carcinoma	Breast Carcinoma	Breast	FALSE
+SIDM00478	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00477	TRUE	Esophageal Carcinoma	Barrett s Adenocarcinoma	Esophagus	FALSE
+SIDM00457	TRUE	Plasma Cell Myeloma	Plasma Cell Myeloma	Haematopoietic and Lymphoid	FALSE
+SIDM02007	TRUE	Oral Cavity Carcinoma	Gingival Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02006	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02005	TRUE	Oral Cavity Carcinoma	Gingival Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02004	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02003	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02002	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02001	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02000	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01999	TRUE	Oral Cavity Carcinoma	Buccal Mucosa Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM02008	TRUE	Oral Cavity Carcinoma	Buccal Mucosa Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01998	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01996	TRUE	Oral Cavity Carcinoma	Buccal Mucosa Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01995	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00566	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00565	TRUE	Oral Cavity Carcinoma	Oral Cavity Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00475	TRUE	Ovarian Carcinoma	Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM01141	TRUE	Ovarian Carcinoma	Ovarian Adenocarcinoma	Ovary	FALSE
+SIDM00967	TRUE	Ovarian Carcinoma	Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00105	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00091	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00090	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00564	TRUE	Ovarian Carcinoma	Ovarian Clear Cell Adenocarcinoma	Ovary	FALSE
+SIDM00238	TRUE	Ovarian Carcinoma	Ovarian Endometrioid Adenocarcinoma	Ovary	FALSE
+SIDM00465	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM00455	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM00453	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM01139	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM01138	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM01137	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM01136	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM01135	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM00237	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00270	TRUE	Head and Neck Carcinoma	Pyriform Fossa Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00044	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00155	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00043	TRUE	Head and Neck Carcinoma	Laryngeal Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00115	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00473	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00472	TRUE	Ovarian Carcinoma	Ovarian Cystadenocarcinoma	Ovary	FALSE
+SIDM00471	TRUE	Ovarian Carcinoma	Ovarian Cystadenocarcinoma	Ovary	FALSE
+SIDM00042	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM00469	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM00819	TRUE	Kidney Carcinoma	Clear Cell Renal Cell Carcinoma	Kidney	FALSE
+SIDM00359	TRUE	Colorectal Carcinoma	Rectal Adenocarcinoma	Large Intestine	TRUE
+SIDM00358	TRUE	Gastric Carcinoma	Gastric Adenocarcinoma	Stomach	FALSE
+SIDM00354	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00353	TRUE	Other Sarcomas	Ovarian Leiomyosarcoma	Soft Tissue	FALSE
+SIDM01090	TRUE	Colorectal Carcinoma	Colon Carcinoma	Large Intestine	TRUE
+SIDM01088	TRUE	Endometrial Carcinoma	Adenosquamous Endometrial Carcinoma	Endometrium	FALSE
+SIDM00352	TRUE	Ovarian Carcinoma	Ovarian Clear Cell Adenocarcinoma	Ovary	FALSE
+SIDM00415	TRUE	B-Cell Non-Hodgkin's Lymphoma	Diffuse Large B-Cell Lymphoma	Haematopoietic and Lymphoid	FALSE
+SIDM00087	TRUE	Plasma Cell Myeloma	Plasma Cell Myeloma	Haematopoietic and Lymphoid	FALSE
+SIDM00351	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00350	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01081	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM01080	TRUE	Oral Cavity Carcinoma	Tongue Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00399	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00383	TRUE	Gastric Carcinoma	Gastric Choriocarcinoma	Stomach	FALSE
+SIDM00382	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00085	TRUE	Glioma	Astrocytoma	Central Nervous System	FALSE
+SIDM00084	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00083	TRUE	Glioblastoma	Gliosarcoma	Central Nervous System	FALSE
+SIDM01112	TRUE	Osteosarcoma	Osteosarcoma	Bone	FALSE
+SIDM00483	TRUE	Esophageal Carcinoma	Esophageal Adenocarcinoma	Esophagus	FALSE
+SIDM00082	TRUE	Melanoma	Melanoma	Skin	FALSE
+SIDM01103	TRUE	Squamous Cell Lung Carcinoma	Squamous Cell Lung Carcinoma	Lung	FALSE
+SIDM00379	TRUE	Glioma	Astrocytoma	Central Nervous System	FALSE
+SIDM01101	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM01100	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM01099	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM01098	TRUE	Neuroblastoma	Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM01097	TRUE	Other Solid Cancers	Primitive Neuroectodermal Tumor	Central Nervous System	FALSE
+SIDM00375	TRUE	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma	Head and Neck	FALSE
+SIDM00095	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00373	TRUE	Endometrial Carcinoma	Endometrial Adenocarcinoma	Endometrium	FALSE
+SIDM01146	TRUE	Gastric Carcinoma	Gastric Carcinoma	Stomach	FALSE
+SIDM01145	TRUE	Gastric Carcinoma	Gastric Carcinoma	Stomach	FALSE
+SIDM00194	TRUE	Colorectal Carcinoma	Rectal Adenocarcinoma	Large Intestine	TRUE
+SIDM00193	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM01197	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00498	TRUE	Colorectal Carcinoma	Cecum Adenocarcinoma	Large Intestine	TRUE
+SIDM00389	TRUE	B-Cell Non-Hodgkin's Lymphoma	Diffuse Large B-Cell Lymphoma	Haematopoietic and Lymphoid	FALSE
+SIDM00406	TRUE	B-Cell Non-Hodgkin's Lymphoma	Diffuse Large B-Cell Lymphoma	Haematopoietic and Lymphoid	FALSE
+SIDM00423	TRUE	B-Cell Non-Hodgkin's Lymphoma	Diffuse Large B-Cell Lymphoma	Haematopoietic and Lymphoid	FALSE
+SIDM01188	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM00371	TRUE	Pancreatic Carcinoma	Pancreatic Ductal Adenocarcinoma	Pancreas	FALSE
+SIDM01155	TRUE	Glioma	Astrocytoma	Central Nervous System	FALSE
+SIDM01163	TRUE	Non-Small Cell Lung Carcinoma	Bronchiolo-Alveolar Lung Carcinoma	Lung	FALSE
+SIDM01165	TRUE	Pancreatic Carcinoma	Pancreatic Adenocarcinoma	Pancreas	FALSE
+SIDM00837	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00841	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM01168	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM00833	TRUE	Colorectal Carcinoma	Rectal Adenocarcinoma	Large Intestine	TRUE
+SIDM00322	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00097	TRUE	Breast Carcinoma	Invasive Ductal Carcinoma Not Otherwise Specified	Breast	FALSE
+SIDM00782	TRUE	Colorectal Carcinoma	Colon Adenocarcinoma	Large Intestine	TRUE
+SIDM01171	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00419	TRUE	Ewing's Sarcoma	Ewing's Sarcoma	Bone	FALSE
+SIDM00349	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00249	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00250	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00347	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00326	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00325	TRUE	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	FALSE
+SIDM00324	TRUE	Neuroblastoma	Adrenal Gland Neuroblastoma	Peripheral Nervous System	FALSE
+SIDM00040	TRUE	Gastric Carcinoma	Gastric Adenocarcinoma	Stomach	FALSE
+SIDM01170	TRUE	Ovarian Carcinoma	Ovarian Endometrioid Adenocarcinoma	Ovary	FALSE
+SIDM01169	TRUE	Ovarian Carcinoma	Ovarian Clear Cell Adenocarcinoma	Ovary	FALSE
+SIDM00321	TRUE	Ovarian Carcinoma	High Grade Ovarian Serous Adenocarcinoma	Ovary	FALSE
+SIDM01189	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00111	TRUE	Glioma	Astrocytoma	Central Nervous System	FALSE
+SIDM01186	TRUE	Breast Carcinoma	Invasive Ductal Carcinoma Not Otherwise Specified	Breast	FALSE
+SIDM00815	TRUE	Ovarian Carcinoma	Ovarian Carcinoma	Ovary	FALSE
+SIDM00320	TRUE	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma	Lung	FALSE
+SIDM00316	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00409	TRUE	Non-Cancerous	Non-Cancerous	Eye	FALSE
+SIDM00574	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE
+SIDM00573	TRUE	Glioblastoma	Glioblastoma	Central Nervous System	FALSE

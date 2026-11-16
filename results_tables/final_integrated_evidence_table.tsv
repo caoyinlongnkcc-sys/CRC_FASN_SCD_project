@@ -1,0 +1,9 @@
+domain	primary_result	status	analysis_n	event_n
+"DepMap CRC dependency discovery"	"77 core genes CRC-selective at BH<0.05; FASN/SCD among anchors"	"supported"	61	NA
+"Project Score Sanger replication"	"FASN and SCD concordant at BH<0.05; 28/29 CRC models overlap DepMap"	"supported with non-independence caveat"	29	NA
+"DepMap expression/CNA robustness"	"No anchor expression-dependency association survived BH in 49 complete cases"	"negative robustness result"	49	NA
+"TCGA patient multi-omics"	"COAD expression-CNA correlations; SCD/FASN-SCD T-stage exploratory findings"	"supportive/exploratory"	454	NA
+"CPTAC protein layer"	"FASN and ACACA detected; SCD/SREBF1 not returned"	"partial support"	97	NA
+"TCGA clinical outcome"	"Adjusted COAD SCD and scores null; no robust OS biomarker"	"not supported as independent prognostic claim"	442	96
+"GSE39582 independent patient cohort"	"FASN stage association and unadjusted OS association; adjusted FASN borderline; SCD null"	"supportive but borderline after adjustment"	562	191
+"GSE18105 independent metastasis cohort"	"No FASN/SCD metastasis association; no sample-level stage/OS fields"	"negative secondary replication"	77	NA

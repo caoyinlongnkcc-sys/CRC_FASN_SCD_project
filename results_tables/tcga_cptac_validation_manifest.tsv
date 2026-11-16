@@ -1,0 +1,4 @@
+dataset	studyId	sampleListId	profile_expr	profile_cna	expr_rows	cna_rows	expr_samples	cna_samples	profile_protein	protein_rows	protein_samples
+"TCGA_COAD"	"coad_tcga_gdc"	"coad_tcga_gdc_all"	"coad_tcga_gdc_mrna_seq_tpm"	"coad_tcga_gdc_cna"	1840	1824	460	456	NA	NA	NA
+"TCGA_READ"	"read_tcga_gdc"	"read_tcga_gdc_all"	"read_tcga_gdc_mrna_seq_tpm"	"read_tcga_gdc_cna"	668	672	167	168	NA	NA	NA
+"CPTAC_COAD"	"coad_cptac_2019"	"coad_cptac_2019_all"	NA	NA	NA	NA	NA	NA	"coad_cptac_2019_protein_quantification"	194	97

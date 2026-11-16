@@ -1,0 +1,4 @@
+dataset	clinical_field	feature	n	groups	p_value	group_values	p_adj
+"CPTAC_COAD_protein"	"STAGE"	"FASN"	97	4	0.635905050546261	"Stage I;Stage II;Stage III;Stage IV"	0.635905050546261
+"CPTAC_COAD_protein"	"STAGE"	"ACACA"	97	4	0.431469014588002	"Stage I;Stage II;Stage III;Stage IV"	0.635905050546261
+"CPTAC_COAD_protein"	"STAGE"	"FASN_ACACA_score"	97	4	0.413546963681962	"Stage I;Stage II;Stage III;Stage IV"	0.635905050546261

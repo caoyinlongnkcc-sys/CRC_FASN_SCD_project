@@ -1,0 +1,2 @@
+resource	available	note
+"KEGG_ferroptosis_hsa04216"	FALSE	"KEGG REST SSL request failed in this environment; no ferroptosis gene set was invented or analyzed"

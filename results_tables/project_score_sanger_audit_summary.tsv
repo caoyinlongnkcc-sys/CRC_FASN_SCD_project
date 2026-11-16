@@ -1,0 +1,2 @@
+raw_sanger_columns	qc_pass_sanger_columns	unique_sanger_model_ids	model_list_matches	sanger_crc_models	sanger_noncrc_models	depmap_crc_model_overlap	anchors_detected
+350	350	350	350	29	321	28	7

@@ -1,0 +1,10 @@
+resource	url	local_file	role
+Reactome GMT	https://reactome.org/download/current/ReactomePathways.gmt.zip	data_raw/ReactomePathways.gmt.zip	gene-set membership
+Reactome pathway names	https://reactome.org/download/current/ReactomePathways.txt	data_raw/ReactomePathways.txt	pathway provenance
+KEGG human pathway list	https://rest.kegg.jp/list/pathway/hsa	data_raw/kegg_hsa_pathways.tsv	pathway names
+KEGG gene links	https://rest.kegg.jp/link/hsa/<predeclared pathway id>	data_raw/kegg_hsa*_genes.tsv	gene-set membership
+GO ontology	https://current.geneontology.org/ontology/go-basic.obo	data_raw/go-basic.obo	GO hierarchy
+GO human annotations	https://current.geneontology.org/annotations/gaf/HUMAN-uniprot.gaf.gz	data_raw/HUMAN-uniprot.gaf.gz	GO gene annotations
+HGNC complete set	https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt	data_raw/hgnc_complete_set.txt	approved-symbol validation
+DepMap common essentials	https://ndownloader.figshare.com/files/46489597	data_raw/DepMap_24Q2_CRISPRInferredCommonEssentials.csv	annotation only
+Sanger organoid common essentials	https://ndownloader.figshare.com/files/63130795	data_raw/Sanger_Organoid_CRISPRInferredCommonEssentials.csv	annotation only

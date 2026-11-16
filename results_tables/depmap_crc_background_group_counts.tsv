@@ -1,0 +1,7 @@
+variable	group	n
+OncotreeCode	COAD	37
+OncotreeCode	READ	10
+PrimaryOrMetastasis	Primary	35
+PrimaryOrMetastasis	Metastatic	14
+LegacyMolecularSubtype	MSI	6
+LegacyMolecularSubtype	MSS	0
